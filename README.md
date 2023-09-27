@@ -2,8 +2,6 @@
 
 Welcome to the ChatGPT Benchmarking Framework! This project aspires to be the ultimate testing ground for ChatGPT, evaluating its prowess in solving coding challenges and problems from various domains. Dive in and see the potential of where we want to take ChatGPT's benchmarking!
 
-![ChatGPT Logo](link_to_logo_image)
-
 ## 🌟 Our Vision:
 
 - **Comprehensive Benchmarking**: Aim to assess ChatGPT's capabilities across a wide range of computational tasks and challenges.
